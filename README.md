@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h1 align="center">Hi 👋, I'm Khaled!</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/59add3e98419c2d1499fa5e2/1570201339741-QY9T4G9QUS5T319Z4RPQ/giphy+%282%29.gif?format=500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-abdlhamid&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-abdlhamid" /> </p>
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khaled-abdlhamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-abdlhamid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-abdlhamid-613a3a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-abdlhamid-613a3a201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

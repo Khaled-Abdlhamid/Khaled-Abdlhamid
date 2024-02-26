@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-abdlhamid&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-abdlhamid" /> </p>
 
-- 🌱 I’m currently learning **ML, Deep Learning, NLP.**
+- 🌱 I’m currently learning **Deep Learning, NLP.**
 
-- 💬 Ask me about **Python, R, SQL, PowerBI, Tableau, EDA, Data Analysis.**
+- 💬 Ask me about **Python, R, SQL, PowerBI, Tableau, Data Analysis, Machine Learning, Computer Vision and Telecommunication.**
 
 - 📫 How to reach me **khaledabdlhmid@gmail.com**
 
